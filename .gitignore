@@ -1,0 +1,44 @@
+# Documentation & Local Preparation Files
+interview_prep_roadmap.md
+interview_prep_roadmap_v2.md
+interview_flashcards.md
+interview_coding_exercises.md
+mock_interview_script.md
+implementation_plan.md
+lessons/
+
+# Environment Variables & Secrets
+.env
+*.env
+*.env.local
+*.env.development
+*.env.production
+
+# Node modules & dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# Temp files
+temp/
+tmp/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Coverage & Testing
+coverage/
